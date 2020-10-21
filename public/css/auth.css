@@ -1,0 +1,16 @@
+.login-form {
+  width: 20rem;
+  max-width: 90%;
+  margin: auto;
+  display: block;
+}
+
+
+.login-form__reset {
+  float: right;
+}
+
+.login-form__reset:hover {
+  color: #fff;
+  background-color: rgba(168, 52, 52, 0.87);
+}
